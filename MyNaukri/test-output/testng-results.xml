@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-25T23:19:57 IST" name="Default suite" finished-at="2023-04-25T23:20:22 IST" duration-ms="24336">
+    <groups>
+    </groups>
+    <test started-at="2023-04-25T23:19:57 IST" name="Default test" finished-at="2023-04-25T23:20:22 IST" duration-ms="24336">
+      <class name="com.naukri.testScript.DailyUpdate">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.naukri.testScript.DailyUpdate@31368b99]" started-at="2023-04-25T23:19:57 IST" name="openBrowser" finished-at="2023-04-25T23:20:03 IST" duration-ms="5265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loginNaukri()[pri:0, instance:com.naukri.testScript.DailyUpdate@31368b99]" started-at="2023-04-25T23:20:03 IST" name="loginNaukri" finished-at="2023-04-25T23:20:11 IST" duration-ms="8716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginNaukri -->
+        <test-method signature="update()[pri:0, instance:com.naukri.testScript.DailyUpdate@31368b99]" started-at="2023-04-25T23:20:11 IST" name="update" finished-at="2023-04-25T23:20:21 IST" duration-ms="9231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method is-config="true" signature="logOutNaukri()[pri:0, instance:com.naukri.testScript.DailyUpdate@31368b99]" started-at="2023-04-25T23:20:21 IST" name="logOutNaukri" finished-at="2023-04-25T23:20:21 IST" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutNaukri -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.naukri.testScript.DailyUpdate@31368b99]" started-at="2023-04-25T23:20:21 IST" name="closeBrowser" finished-at="2023-04-25T23:20:22 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.naukri.testScript.DailyUpdate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
